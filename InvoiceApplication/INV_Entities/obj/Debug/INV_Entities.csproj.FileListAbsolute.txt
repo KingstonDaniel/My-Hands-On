@@ -1,0 +1,5 @@
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Entities\bin\Debug\INV_Entities.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Entities\bin\Debug\INV_Entities.pdb
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Entities\obj\Debug\INV_Entities.csprojResolveAssemblyReference.cache
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Entities\obj\Debug\INV_Entities.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Entities\obj\Debug\INV_Entities.pdb

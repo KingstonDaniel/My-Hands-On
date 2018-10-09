@@ -1,0 +1,14 @@
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_PL.exe.config
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_PL.exe
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_PL.pdb
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_BLL.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_Entities.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_Exceptions.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_DAL.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_BLL.pdb
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_Entities.pdb
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_Exceptions.pdb
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\bin\Debug\INV_DAL.pdb
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\obj\Debug\INV_PL.csprojResolveAssemblyReference.cache
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\obj\Debug\INV_PL.exe
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_PL\obj\Debug\INV_PL.pdb

@@ -1,0 +1,4 @@
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Exceptions\bin\Debug\INV_Exceptions.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Exceptions\bin\Debug\INV_Exceptions.pdb
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Exceptions\obj\Debug\INV_Exceptions.dll
+D:\Module -1 Test Refer\MPT Module 1 Test\158162_KINGSTONDANIEL_SET(A)\InvoiceApplication\INV_Exceptions\obj\Debug\INV_Exceptions.pdb
